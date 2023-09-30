@@ -12,9 +12,10 @@
 ## Student ID:    {4111674}
 ## Student Email: {4111674@upm.edu.sa}
 #############################################################################################
+## Python Ver: 3.11.5
+## OS: Windows
 ## NOTE: Refer to the README.md file for detailed execution instructions
 #############################################################################################
-
 
 #Read the data from file based on the user choise:
 def readData(f):
