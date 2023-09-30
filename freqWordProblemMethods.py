@@ -12,6 +12,8 @@
 ## Student ID:    {4111674}
 ## Student Email: {4111674@upm.edu.sa}
 #############################################################################################
+## NOTE: Refer to the README.md file for detailed execution instructions
+#############################################################################################
 
 
 #Read the data from file based on the user choise:
