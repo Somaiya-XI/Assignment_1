@@ -15,7 +15,7 @@ To run the code, you need to have Python-3.11 installed on your system. Follow t
 
 ```bash
 
-   git clone https://github.com/MYREPO.git
+   git clone https://github.com/Somaiya-XI/Assignment_1.git
 
 ```
 
