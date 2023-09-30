@@ -28,7 +28,7 @@ To run the code, you need to have Python-3.11 installed on your system. Follow t
 
 ```
 
-4. Run the program by executing the Python script using terminal:
+3. Run the program by executing the Python script using terminal:
 
 ```bash
 
